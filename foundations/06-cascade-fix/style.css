@@ -10,3 +10,25 @@
 .small-para{
     font-size: 12px;
 }
+
+#confirm-button{
+color: white;
+background-color: green;
+font-size: large;
+}
+
+#cancel-button{
+color: black;
+background-color: pink;
+font-size: large;
+}
+
+.text{
+    font-size: larger;
+    color: green;
+}
+
+.text .child{
+    color: red;
+    font-size: small;
+}
